@@ -35,9 +35,9 @@
   <li><a href="https://skillroad.netlify.app/">SkillRoad</a>: A P2P Knowledge Base to centralize information and easily find it</li>
   <li><a href="https://codex-dao.vercel.app/">CodeX DAO</a>: Your portal to the web3 rabbit-hole</li>
   <li><a href="https://codex-dao-blockexplorer.vercel.app/">CodeX Block Explorer</a>: Navigate the Ethereum blockchain information in total transparency</li>
-  <li><a href="https://review-gpt.netlify.app/">Review-GPT</a>: Get a full automated review for any establishment based on effortless inputs</li>
+  <li><a href="https://review-gpt.netlify.app/">Review-GPT</a>: Get a complete and automated review for any establishment based on effortless inputs</li>
   <li><a href="https://paulfresnel.github.io/game-chase-the-bull/">Chase The Bull</a>: A Canvas-based game, inspired by the blockchain and crypto Industry</li>
-  <li><a href="https://football-worldcup-games.cyclic.app/">Football World Cup App</a>: A guessing and points-based interactive App with public leaderboard for the FIFA World Cup 2022 </li>
+  <li><a href="https://football-worldcup-games.cyclic.app/">Football World Cup App</a>: A guessing and points-based interactive App with public leaderboard for the Football World Cup 2022 </li>
 </ul>
 
 </br>
