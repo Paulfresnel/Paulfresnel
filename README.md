@@ -48,6 +48,31 @@
   - Contact me by email at <a href="mailto:paul.fresnel1@gmail.com">paul.fresnel1@gmail.com</a>
   - Find me on <a href="https://twitter.com/GetMoustachu">twitter</a>
 
+</br>
+
+<h3> ⚙️ My Github Stats </h3>
+
+<p align="center">
+<a href="https://github.com/Paulfresnel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Paulfresnel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Paulfresnel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<div align='center'>                                                                                                
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Paulfresnel&theme=dark&background=000000"/>               
+</div>
+
+</br>
+
+<h3> ⏳ My Coding Activity </h3>
+
+<h5>Since 01 February 2023:</h5>
+<img src="https://wakatime.com/badge/user/ae8aba33-57f7-4f5d-a0e8-75e99e093541.svg"/>
+<p>More information on my activity can be found on my <a href="https://wakatime.com/@GetMoustache">wakatime</a> profile
+
+</br>
+
 <!--
 **Paulfresnel/Paulfresnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
