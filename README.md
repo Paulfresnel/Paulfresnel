@@ -40,6 +40,7 @@
   <li><a href="https://review-gpt.netlify.app/">Review-GPT</a>: Get a complete and automated review for any establishment based on effortless inputs</li>
   <li><a href="https://paulfresnel.github.io/game-chase-the-bull/">Chase The Bull</a>: A Canvas-based game, inspired by the blockchain and crypto Industry</li>
   <li><a href="https://football-worldcup-games.cyclic.app/">Football World Cup App</a>: A guessing and points-based interactive App with public leaderboard for the Football World Cup 2022 </li>
+  <li><a href="https://erc20-token-indexer.vercel.app/">ERC-20 Token indexer dApp</a>: A simple ERC-20 Token indexer dApp to retrieve all the ERC-20 tokens' balance of any address</li>
 </ul>
 
 </br>
