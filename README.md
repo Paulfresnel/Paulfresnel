@@ -8,6 +8,7 @@
 <li> 🕴️ 5 years managing digital projects</li>
 <li> 📍 Madrid, Spain </li>
 <li> 🌍 Love solving complex challenges </li>
+<li> ✍🏻 Building and improving the <a href="https://programming-hub.notion.site/programming-hub/The-Coder-Programming-Hub-08294eba09164cb0935b99d78ff37224">Programming Hub Notion Page</a> daily</li>
 </ul>
 
 </br>
