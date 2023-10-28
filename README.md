@@ -51,7 +51,7 @@
 <h3>Hackathon Projects Built</h3>
 
 <ul>
-  <li><a href="https://token-titans.vercel.app/">Token Titans SocialFi dApp</a>: A SocialFi dApp built on the <a href="https://coreum.com">Coreum</a> testnet network as part of the EBC23 hackathon Hackathon project submission. I was in charge of the backend and RUST Smart Contract functionnalities construction with the cosmWasm_std library; as well as overviewing the overall dApp UX logic with the frontend team. The link to the github repo can be found <a href="https://github.com/hmweb77/token-titans/tree/master">here</a> </li>
+  <li><a href="https://token-titans.vercel.app/">Token Titans SocialFi dApp</a>: A SocialFi dApp built on the <a href="https://coreum.com">Coreum</a> testnet network as part of the <a href="https://eblockchainconvention.com/=">European Blockchain Convention 23</a> Hackathon project submission. I was in charge of the backend and RUST Smart Contract functionnalities construction with the cosmWasm_std library; as well as overviewing the overall dApp UX logic with the frontend team. The link to the github repo can be found <a href="https://github.com/hmweb77/token-titans/tree/master">here</a> </li>
 </ul>
 
 </br>
