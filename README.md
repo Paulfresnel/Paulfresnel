@@ -1,7 +1,6 @@
 
 <h2> About Me 👋</h2>
 
-<img class="img" src="https://media.licdn.com/dms/image/D4D03AQEXqFfSrBbMJA/profile-displayphoto-shrink_200_200/0/1680079374503?e=1689811200&v=beta&t=2L4iGtxxea1RimklK8z6PbbaIbd1E7nm_DV4mEYshkM"/>
 <ul>
 <li> 🖥️ Full-stack web developer</li>
 <li> 🤓 Passionate about Blockchain and smart contract programming</li>
