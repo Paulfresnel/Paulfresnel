@@ -26,7 +26,6 @@
   - Building <a href="https://codex-dao.vercel.app/">Codex DAO</a>, a hub to easily navigate the web3 jungle
   - Obtaining my ETH web development certification from <a href="https://www.alchemy.com/">Alchemy</a>.
   - Improving and enriching my <a href="https://programming-hub.notion.site/programming-hub/The-Coder-Programming-Hub-08294eba09164cb0935b99d78ff37224">Programming Hub Notion Page</a>
-  - Documenting my <a href="https://programming-hub.notion.site/100-Days-of-Coding-Challenge-1d18434c80aa4d5fa60d2917d4b49792?pvs=4">#100DaysOfCoding Challenge Journey</a>.
   - Looking for full-stack web development projects
 
 </br>
