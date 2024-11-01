@@ -3,8 +3,9 @@
 
 <ul>
 <li> 🖥️ Full-stack web developer</li>
+<li> 🤖 Digital Marketing Manager</li>
 <li> 🤓 Passionate about Blockchain and smart contract programming</li>
-<li> 🕴️ 5 years managing digital projects</li>
+<li> 🕴️ 6 years managing digital projects</li>
 <li> 📍 Madrid, Spain </li>
 <li> 🌍 Love solving complex challenges </li>
 <li> ✍🏻 Building and improving the <a href="https://programming-hub.notion.site/programming-hub/The-Coder-Programming-Hub-08294eba09164cb0935b99d78ff37224">Programming Hub Notion Page</a> daily</li>
@@ -26,7 +27,7 @@
   - Building <a href="https://codex-dao.vercel.app/">Codex DAO</a>, a hub to easily navigate the web3 jungle
   - Obtaining my ETH web development certification from <a href="https://www.alchemy.com/">Alchemy</a>.
   - Improving and enriching my <a href="https://programming-hub.notion.site/programming-hub/The-Coder-Programming-Hub-08294eba09164cb0935b99d78ff37224">Programming Hub Notion Page</a>
-  - Looking for full-stack web development projects
+  - Looking for web3 opportunities & projects
 
 </br>
 
